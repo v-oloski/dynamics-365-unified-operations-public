@@ -65,4 +65,8 @@ This procedure walks you through generating the Japan consumption tax report. Th
 23. Click Yes.
 24. On the Action Pane, click Consumption tax report.
     * Click Print reports to generate the final report.  
+    
+ > [!NOTE]
+ > In order to calulate the Consumption tax report which should be submited from October 1st, 2019 it is necessary enable the **Japanese sales tax report feature** feature in the **Feature management** workspace. For more information, see [Feature management overview](../../fin-and-ops/get-started/feature-management/feature-management-overview.md).
+
 
